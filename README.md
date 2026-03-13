@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm Shahbaz
 
-<!--
-**Shahbaz-99/Shahbaz-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Backend Developer  
+🚀 Skilled in Django, Django REST Framework, Docker and CI/CD  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Python
+- Django REST Framework
+- Docker
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+Artificial Intelligence and Machine Learning
+
+### 📌 Projects
+- Incident Management System (DRF)
+- Employee Management System (Python + Django)
+- Dockerized Deployment on VPS
+
+### 📫 Contact
+Email: sahbaj.swn@gmail.com
+GitHub: https://github.com/Shahbaz-99
+LinkedIn: https://www.linkedin.com/in/shahbaz-a0b445350/
