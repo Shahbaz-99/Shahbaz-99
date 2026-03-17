@@ -139,23 +139,6 @@ Passionate about building scalable backend systems using Python and modern cloud
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Incident Management System
-- Built using **Django REST Framework**
-- Developed secure REST APIs for incident tracking
-- Implemented CRUD operations and user management
-- Tested APIs using Postman
-
----
-
-### 🔹 Employee Management System
-- Built using **Python + MySQL (CLI)** and **Django (Web App)**
-- Features: Add, update, delete, view employee records
-- Designed database schema and backend logic
-
----
-
 ## 🧠 Core Skills
 
 - REST API Development  
