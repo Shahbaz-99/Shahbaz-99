@@ -118,7 +118,7 @@ Passionate about building scalable backend systems using Python and modern cloud
 - 🎓 **Bachelor of Technology (B.Tech)**  
   All Saints College of Technology (RGPV University), Bhopal  
 
-  📊 GPA: 6.9/10 | 📅 2023 – 2027 | 🎯 Current Semester: 6th
+  📊 GPA: 7.2/10 | 📅 2023 – 2027 | 🎯 Current Semester: 6th
   
 ---
 
