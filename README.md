@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Sahbaj Ali</h1>
+<!-- <h1 align="center">Hi, I'm Sahbaj Ali </h1>
 <h3 align="center">Python Backend Developer | Django | Docker | Exploring AI & Machine Learning</h3>
 
 <p align="center">
