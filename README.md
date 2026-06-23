@@ -1,206 +1,86 @@
-<!-- <h1 align="center">Hi, I'm Sahbaj Ali </h1>
-<h3 align="center">Computer Science Student | Python Backend Development | Django | Docker | Exploring AI & Machine Learning</h3>
+<h1 align="center">Hi 👋, I'm Shahbaz Ali</h1>
+
+<h3 align="center">Computer Science Student • Software Engineer</h3>
 
 <p align="center">
-Passionate about building scalable backend systems using Python and modern cloud technologies.
+I enjoy building software, solving problems, and learning how technology works behind the scenes.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Python Backend Developer specializing in **Django & Django REST Framework**
-- 🐳 Experienced in **Docker containerization and CI/CD pipelines**
-- ☁️ Deployed **containerized applications on Linux VPS**
-- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
-- 📚 Interested in **backend architecture, system design, and scalable applications**
-
----
-
-## 🛠 Tech Stack
-
-### Backend & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+* 🎓 Computer Science Engineering student at All Saints College of Technology (RGPV), Bhopal
+* 💻 Interested in software development, backend systems, and scalable applications
+* 🛠️ Worked with Python, Django, Django REST Framework, MySQL, Docker, and Linux
+* 🌱 Currently exploring Artificial Intelligence, Machine Learning, and System Design
+* 🚀 Always looking for opportunities to learn, build, and improve
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
+
+**Languages**
+
+* Python
+* SQL
+* JavaScript (Basics)
+
+**Backend**
+
+* Django
+* Django REST Framework
+* REST APIs
+
+**Database**
+
+* MySQL
+
+**Tools & Technologies**
+
+* Docker
+* Linux
+* Git & GitHub
+* Postman
+* Kubernetes (Basics)
+
+---
+
+## Projects
 
 ### Incident Management System
-Backend system built with **Django REST Framework** to log, track and manage incidents through secure REST APIs.
+
+A backend application built using Django REST Framework for managing and tracking incidents through secure REST APIs.
 
 ### Employee Management System
-Employee management application built as both **CLI (Python + MySQL)** and **web application (Django + MySQL)**.
+
+Developed both CLI and web-based employee management applications using Python, Django, and MySQL.
 
 ---
 
-## 📊 GitHub Stats
+## Currently Learning
+
+* Artificial Intelligence
+* Machine Learning
+* System Design
+* Cloud Technologies
+
+---
+
+## GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shahbaz-99&show_icons=true&theme=tokyonight&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahbaz-99&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Shahbaz-99&show_icons=true&theme=default" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahbaz-99&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Advanced Backend Architecture
+* 📧 Email: [sahbaj.swn@gmail.com](mailto:sahbaj.swn@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/shahbaz-a0b445350/](http://www.linkedin.com/in/shahbaz-a0b445350/)
+* 💻 GitHub: github.com/Shahbaz-99
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="mailto:sahbaj.swn@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shahbaz-99">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shahbaz-a0b445350/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-⭐ *Always learning, building, and improving backend systems while exploring AI and Machine Learning.* -->
-
-<h1 align="center">Hi 👋, I'm Shahbaz Ali</h1>
-<h3 align="center">Python Backend Developer | Django | Docker | Exploring AI & Machine Learning</h3>
-
-<p align="center">
-Passionate about building scalable backend systems using Python and modern cloud technologies.
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 Python Backend Developer specializing in **Django & Django REST Framework**
-- 🐳 Experienced in **Docker containerization and CI/CD pipelines**
-- ☁️ Deployed **containerized applications on Linux VPS**
-- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
-- 📚 Interested in **backend architecture, system design, and scalable applications**
-
----
-
-## 🎓 Education
-
-- 🎓 **Bachelor of Technology (B.Tech)**  
-  All Saints College of Technology (RGPV University), Bhopal  
-
-  📊 GPA: 7.2/10 | 📅 2023 – 2027 | 🎯 Current Semester: 6th
-  
----
-
-## 🛠 Tech Stack
-
-### Backend & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🧠 Core Skills
-
-- REST API Development  
-- Backend Architecture  
-- Database Design  
-- Docker & Deployment  
-- CI/CD Pipelines  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shahbaz-99&show_icons=true&theme=tokyonight&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahbaz-99&theme=tokyonight" />
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahbaz-99&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Artificial Intelligence  
-- Machine Learning  
-- Advanced Backend Architecture  
-
----
-
-## 🎯 Career Goal
-
-To become a **high-level backend engineer** and build scalable systems integrated with AI.
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="mailto:sahbaj.swn@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shahbaz-99">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shahbaz-a0b445350/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-⭐ *Always learning, building, and improving backend systems while exploring AI and Machine Learning.*
+⭐ Thanks for visiting my profile.
