@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi, I'm Sahbaj Ali </h1>
-<h3 align="center">Python Backend Developer | Django | Docker | Exploring AI & Machine Learning</h3>
+<h3 align="center">Computer Science Student | Python Backend Development | Django | Docker | Exploring AI & Machine Learning</h3>
 
 <p align="center">
 Passionate about building scalable backend systems using Python and modern cloud technologies.
